@@ -73,7 +73,7 @@ Tập mẫu bao gồm 20058 dữ liệu và 16 thuộc tính khác nhau.
 __Đối với elo trắng và đen__
 
 
-![](image/white_rating.png)
+![](\image\white_rating.png)
 
 
 ![](image\black_rating.png)
