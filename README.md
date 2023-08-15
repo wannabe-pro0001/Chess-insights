@@ -76,10 +76,10 @@ __Đối với elo trắng và đen__
 ![](./image/white_rating.png)
 
 
-![](.\image\black_rating.png)
+![](./image/black_rating.png)
 
 
-![](.\image\black_white_boxplot.png)
+![](./image/black_white_boxplot.png)
 
 
 Từ biểu đồ ta thấy rằng hầu hết các trận đấu, thực lực giữa 2 người chơi là ngang nhau.
@@ -111,10 +111,10 @@ Name: opening_name, Length: 1477, dtype: int64
 Để có thể tìm ra câu trả lời, ta cần phải biết chênh lệch giữa 2 người chơi. Ngoài ra ta có thể tìm hiểu thêm rằng nếu người có elo cao hơn thì việc họ đi trước hay sau có ảnh hưởng đến kết quả cuối cùng là họ vẫn thắng hay không. 
 
 
-![Biểu đồ số trận thắng khi người chơi đen có elo cao hơn](.\image\diff_player.png)
+![Biểu đồ số trận thắng khi người chơi đen có elo cao hơn](./image/diff_player.png)
 
 
-![Biểu đồ số trận thắng khi người chơi trắng có elo cao hơn](.\image\white_diff.png)
+![Biểu đồ số trận thắng khi người chơi trắng có elo cao hơn](./image/white_diff.png)
 
 
 Từ biểu đồ ta thấy được rằng, người chơi có elo cao hơn họ có xu hướng là người chiến kể cả họ cầm màu quân gì. Đúng với những gì nhóm em kỳ vọng. Ngoài ra nhóm em còn tính được: 
@@ -152,7 +152,7 @@ Theo tìm hiểu của nhóm, bắt đầu bằng tốt ra trung tâm sẽ kiể
 __Mô hình hóa__
 
 
-![Biểu đồ thể hiện số lượng trận thắng theo từng khai cuộc](.\image\opening.png)
+![Biểu đồ thể hiện số lượng trận thắng theo từng khai cuộc](./image/opening.png)
 
 
 Nhóm em đã tính được: <br>
